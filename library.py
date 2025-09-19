@@ -83,7 +83,7 @@ def main():
     filename: str = args.filename
 
     while True:
-        console.print("\nMain Menu")
+        console.print("\nMain Menu \nChoose action from below (1-3).")
         #Show command options
         console.print("1. Print book database (default)")
         console.print("2. Add a new book to database")
