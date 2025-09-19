@@ -13,7 +13,7 @@ pip install .
 ```
 with uv
 ```bash
-uv pip install
+uv pip install -r pyproject.toml
 ```
 
 ## Usage
